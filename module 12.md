@@ -65,7 +65,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-25.png)
+<img width="497" height="217" alt="image" src="https://github.com/user-attachments/assets/f56def5f-769e-434a-9ee4-c6c151326f69" />
+
 
 ### Result:
 Thus, the program to display stack elements using linked list is verified successfully.
@@ -150,7 +151,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-26.png)
+<img width="503" height="330" alt="image" src="https://github.com/user-attachments/assets/9b853589-f759-4a21-94a9-068af7957f02" />
+
 
 ### Result:
 Thus, the program to pop an element from the given stack using liked list is verified successfully.
@@ -228,7 +230,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-27.png)
+<img width="523" height="223" alt="image" src="https://github.com/user-attachments/assets/fc0d8ff8-4e0b-47e0-90b2-9e7511cbb297" />
+
 
 ### Result:
 Thus, the program to display queue elements using linked list is verified successfully.
@@ -304,7 +307,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-28.png)
+<img width="510" height="330" alt="image" src="https://github.com/user-attachments/assets/597319d3-3435-4ba8-bad6-542712899f51" />
+
 
 ### Result:
 Thus, the program to insert elements in queue using linked list is verified successfully.
@@ -378,7 +382,7 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-29.png)
+<img width="507" height="227" alt="image" src="https://github.com/user-attachments/assets/4e6449bd-5196-44e0-85a9-e58103e15b73" />
 
 ### Result:
 Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully.
